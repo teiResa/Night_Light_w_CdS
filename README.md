@@ -1,4 +1,8 @@
 # Night_Light_w_CdS
+<p align="center">
+  <img src="breadboard.jpg" width="350" title="The Circuit on a breadboard">
+</p>
+
 Basic night light like the ones my parents had. When there is light, it's off; While dark, it turns on automatically. Simple enough.
 
 This tiny project uses Arduino.
@@ -20,3 +24,7 @@ This tiny project uses Arduino.
 
 
 If anyone would like me to explain anything. Feel free to contact.
+
+<p align="center">
+  <img src="notebook.jpg" width="750" title="A page explaining the project">
+</p>
