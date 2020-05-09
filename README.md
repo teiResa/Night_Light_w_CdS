@@ -3,7 +3,7 @@ Basic night light like the ones my parents had. When there is light, it's off; W
 
 This tiny project uses Arduino.
 
-![image of schematic](/shematic.png)
+![image of schematic](https://github.com/teiResa/Night_Light_w_CdS-Photosensor/issues/1)
 
 <b> The Circuit: </b>
 <ul>
