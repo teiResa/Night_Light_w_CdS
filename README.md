@@ -3,7 +3,7 @@ Basic night light like the ones my parents had. When there is light, it's off; W
 
 This tiny project uses Arduino.
 
-![schematic of circuit](/images/shematic.png?raw=true "schematic of Circuit")
+![schematic of circuit](/shematic.png?raw=true "schematic of Circuit")
 
 <b> The Circuit: </b>
 <ul>
